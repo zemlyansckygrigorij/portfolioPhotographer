@@ -1,0 +1,39 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__button-text{
+		width: 80px;
+		height: 12px;
+		color: #f2c200;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 38px;
+		text-transform: uppercase;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__button-text{
+		width: 80px;
+		height: 12px;
+		color: #f2c200;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 38px;
+		text-transform: uppercase;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__button-text{
+		width: 80px;
+		height: 12px;
+		color: #f2c200;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 38px;
+		text-transform: uppercase;
+	}
+ }

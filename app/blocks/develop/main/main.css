@@ -1,0 +1,29 @@
+@media screen  and (min-width: 1200px) {
+	.main{
+		display:flex;
+		flex-direction:column;
+		overflow: hidden;
+		width: 1600px;
+		height: 5385px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.main{
+		display:flex;
+		flex-direction:column;
+		overflow: hidden;
+		width: 1200px;
+		height: 7875px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.main{
+		display:flex;
+		flex-direction:column;
+		overflow: hidden;
+		width: 800px;
+		height: 10155px;
+	} 
+ }

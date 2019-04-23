@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__image-2-instagram_position{
+		position: absolute;
+		top: 0px;
+		left: 110px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__image-2-instagram_position{
+		position: absolute;
+		top: 0px;
+		left: 110px;	
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__image-2-instagram_position{
+		position: absolute;
+		top: 0px;
+		left: 110px;
+	}
+ }

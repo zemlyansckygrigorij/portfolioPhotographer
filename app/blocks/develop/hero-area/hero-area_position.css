@@ -1,0 +1,48 @@
+
+ @media screen  and (min-width: 1200px) {
+	.hero-area_position{
+		position:relative;
+		left:-11px;
+		top:-7px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-area_position{
+		position:relative;
+		left:-11px;
+		top:-7px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-area_position{
+		position:relative;
+		left:-11px;
+		top: 21px;
+	} 
+ }
+ 
+ @media screen  and (min-width: 1200px) {
+	.hero-area_change{
+		position:relative;
+		left:-11px;
+		top:135px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-area_change{
+		position:relative;
+		left:-11px;
+		top:135px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-area_change{
+		position:relative;
+		left:-11px;
+		top:135px;
+	} 
+ }

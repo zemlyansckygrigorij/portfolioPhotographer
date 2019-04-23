@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__rectangle-text_position{
+		position:relative;
+		top:310px;
+		left:77px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__rectangle-text_position{
+		position:relative;
+		top:310px;
+		left:77px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__rectangle-text_position{
+		position:relative;
+		top:310px;
+		left:77px;
+	}
+ }

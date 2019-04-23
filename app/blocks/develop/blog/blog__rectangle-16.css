@@ -1,0 +1,32 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__rectangle-16{
+		width: 1075px;
+		height: 642px;
+		border-left: 3px solid #ffffff;
+		border-bottom: 3px solid #ffffff;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__rectangle-16{
+		width: 1075px;
+		height: 642px;
+		border-left: 3px solid #ffffff;
+		border-bottom: 3px solid #ffffff;
+		z-index:2;
+		display:none;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__rectangle-16{
+		width: 1075px;
+		height: 642px;
+		border-left: 3px solid #ffffff;
+		border-bottom: 3px solid #ffffff;
+		z-index:2;
+		display:none;
+	}
+ }

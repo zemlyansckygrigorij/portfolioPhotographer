@@ -1,0 +1,39 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__blog-text{
+		width: 265px;
+		height: 37px;
+		opacity: 0.7;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 20px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__blog-text{
+		width: 265px;
+		height: 37px;
+		opacity: 0.7;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 20px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__blog-text{
+		width: 265px;
+		height: 37px;
+		opacity: 0.7;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 20px;
+	}
+ }

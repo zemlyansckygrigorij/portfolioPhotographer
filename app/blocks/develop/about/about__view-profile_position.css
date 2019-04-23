@@ -1,0 +1,26 @@
+
+ @media screen  and (min-width: 1200px) {
+	.about__view-profile_position{
+		position:absolute;
+		left:650px;
+		top:666px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__view-profile_position{
+		position:absolute;
+		left:600px;
+		top:700px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__view-profile_position{
+		position:absolute;
+		left:60px;
+		top:666px;
+	} 
+ }
+ 
+ 

@@ -1,0 +1,22 @@
+
+@media screen  and (min-width: 1200px) {
+	.hero-text__show-works{
+		width: 221px;
+		height: 60px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-text__show-works{
+		width: 221px;
+		height: 60px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-text__show-works{
+		width: 221px;
+		height: 60px;
+	} 
+ }
+ 

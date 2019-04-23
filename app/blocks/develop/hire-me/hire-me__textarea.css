@@ -1,0 +1,45 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__textarea{
+		padding-left: 27px;
+		width: 501px;
+		height: 88px;
+		background-color: #ffffff;
+		opacity: 0.65;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 34.16px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__textarea{
+		padding-left: 27px;
+		width: 501px;
+		height: 88px;
+		background-color: #ffffff;
+		opacity: 0.65;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 34.16px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__textarea{
+		padding-left: 27px;
+		width: 501px;
+		height: 88px;
+		background-color: #ffffff;
+		opacity: 0.65;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 34.16px;
+	}
+ }

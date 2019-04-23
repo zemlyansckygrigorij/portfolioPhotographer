@@ -1,0 +1,32 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients-group__elements{
+		width: 1171px;
+		height: 81px;
+		display:flex;
+		flex-direction:row;
+		justify-content: space-between;
+		align-items: center;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients-group__elements{
+		width: 1100px;
+		height: 81px;
+		display:flex;
+		flex-direction:row;
+		justify-content: space-between;
+		align-items: center;		
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients-group__elements{
+		width: 780px;
+		height: 450px;
+		display:flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+	} 
+ }

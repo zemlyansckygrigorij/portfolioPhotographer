@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__picture-2{
+		width: 370px;
+		height: 252px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__picture-2{
+		width: 370px;
+		height: 252px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__picture-2{
+		width: 370px;
+		height: 252px;
+	}
+ }

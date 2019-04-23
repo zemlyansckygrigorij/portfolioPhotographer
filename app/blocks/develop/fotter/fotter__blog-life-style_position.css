@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__blog-life-style_position{
+		position: absolute;
+		top: 40px;
+		left: 100px;	
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__blog-life-style_position{
+		position: absolute;
+		top: 40px;
+		left: 100px;	
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__blog-life-style_position{
+		position: absolute;
+		top: 40px;
+		left: 100px;	
+	}
+ }

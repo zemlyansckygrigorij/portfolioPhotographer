@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__blog-posts{
+		width: 365px;
+		height: 250px;
+		background-color: #2b2d5c;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__blog-posts{
+		width: 365px;
+		height: 250px;
+		background-color: #2b2d5c;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__blog-posts{
+		width: 365px;
+		height: 250px;
+		background-color: #2b2d5c;
+	}
+ }

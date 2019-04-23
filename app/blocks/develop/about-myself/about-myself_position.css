@@ -1,0 +1,24 @@
+
+ @media screen  and (min-width: 1200px) {
+	.about-myself_position{
+		position:absolute;
+		left:651px;
+		top:164px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about-myself_position{
+		position:absolute;
+		left:600px;
+		top:164px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about-myself_position{
+		position:absolute;
+		left:60px;
+		top:164px;
+	} 
+ }

@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__horizontal{
+		width: 256px;
+		height: 3px;
+		background-color: #2b2d5c;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__horizontal{
+		width: 256px;
+		height: 3px;
+		background-color: #2b2d5c;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__horizontal{
+		width: 256px;
+		height: 3px;
+		background-color: #2b2d5c;
+		z-index:2;
+	}
+ }

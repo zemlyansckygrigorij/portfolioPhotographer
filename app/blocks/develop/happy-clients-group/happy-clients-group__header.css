@@ -1,0 +1,35 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients-group__header{
+		width: 255px;
+		height: 39px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 30px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients-group__header{
+		width: 255px;
+		height: 39px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 30px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients-group__header{
+		width: 255px;
+		height: 39px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 30px;
+	} 
+ }

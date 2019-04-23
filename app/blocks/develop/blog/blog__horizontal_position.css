@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__horizontal_position{
+		position:relative;
+		top:83px;	
+		left:0px;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__horizontal_position{
+		position:relative;
+		top:83px;	
+		left:0px	;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__horizontal_position{
+		position:relative;
+		top:83px;	
+		left:0px;	
+		z-index:2;
+	}
+ }

@@ -1,0 +1,31 @@
+
+
+@media screen  and (min-width: 1200px) {
+	.hero-text{
+		width: 564px;
+		display: flex;
+		flex-direction: column;
+		align-content: space-between;
+		justify-content: space-between;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-text{
+		width: 564px;
+		display: flex;
+		flex-direction: column;
+		align-content: space-between;
+		justify-content: space-between;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-text{
+		width: 564px;
+		display: flex;
+		flex-direction: column;
+		align-content: space-between;
+		justify-content: space-between;
+	} 
+ }

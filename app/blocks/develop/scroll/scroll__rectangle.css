@@ -1,0 +1,13 @@
+
+	.scroll__rectangle{
+		width: 24px; 
+		height: 24px; 
+		z-index: 2;
+		position:absolute;
+		-moz-transform: rotate(-44deg); /* Для Firefox */
+		-ms-transform: rotate(-44deg); /* Для IE */
+		-webkit-transform: rotate(-44deg); /* Для Safari, Chrome, iOS */
+		-o-transform: rotate(-44deg); /* Для Opera */
+		transform: rotate(-44deg);
+	} 
+ 

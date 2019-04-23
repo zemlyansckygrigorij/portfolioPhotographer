@@ -1,0 +1,39 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__header{
+		width: 78px;
+		height: 35px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__header{
+		width: 78px;
+		height: 35px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__header{
+		width: 78px;
+		height: 35px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+		z-index:2;
+	}
+ }

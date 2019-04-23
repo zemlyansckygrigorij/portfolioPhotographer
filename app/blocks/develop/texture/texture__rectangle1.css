@@ -1,0 +1,26 @@
+@media screen  and (min-width: 1200px) {
+	.texture__rectangle1{
+		width: 82px;
+		height: 83px;
+		background-color: #ffffff;
+		opacity: 0.2;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.texture__rectangle1{
+		width: 82px;
+		height: 83px;
+		background-color: #ffffff;
+		opacity: 0.2;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.texture__rectangle1{
+		width: 82px;
+		height: 83px;
+		background-color: #ffffff;
+		opacity: 0.2;
+	} 
+ }

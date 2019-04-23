@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.about__texture{
+		width: 512px;
+		height: 674px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__texture{
+		width: 512px;
+		height: 674px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__texture{
+		width: 512px;
+		height: 674px;
+		display: none;
+	} 
+ }
+ 
+ 

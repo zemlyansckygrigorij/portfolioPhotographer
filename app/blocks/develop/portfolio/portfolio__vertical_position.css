@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__vertical_position{
+		position:relative;
+		top:0px;
+		left:38px;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__vertical_position{
+		position:relative;
+		top:0px;
+		left:38px;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__vertical_position{
+		position:relative;
+		top:0px;
+		left:38px;
+		z-index:2;
+	}
+ }

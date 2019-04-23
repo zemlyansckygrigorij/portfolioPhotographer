@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__instagram{
+		width: 196px;
+		height: 240px;
+		background-color: #2b2d5c;	
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__instagram{
+		width: 196px;
+		height: 240px;
+		background-color: #2b2d5c;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__instagram{
+		width: 196px;
+		height: 240px;
+		background-color: #2b2d5c;
+	}
+ }

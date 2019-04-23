@@ -1,0 +1,27 @@
+ @media screen  and (min-width: 1200px) {
+	.texture__rectangle1_position{
+		position:relative;
+		left:-12px;
+		top:0px;
+		z-index:2;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.texture__rectangle1_position{
+		position:relative;
+		left:-12px;
+		top:0px;
+		z-index:2;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.texture__rectangle1_position{
+		position:relative;
+		left:-12px;
+		top:0px;
+		z-index:2;
+	} 
+ }
+ 

@@ -1,0 +1,112 @@
+/************************************** fonts ********************************************************/
+
+
+
+@font-face {
+    font-family: "Muli - Black";
+	src:  url('http://localhost:3000/styles/fonts/muli-black.woff') format('woff');
+	
+	font-style: normal; 
+	font-weight: normal; 
+}
+
+@font-face {
+    font-family: 'Muli - Semi Bold';
+    src:  url('http://localhost:3000/styles/fonts/Mulisemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Muli - Extra Light";
+	src:  url('http://localhost:3000/styles/fonts/muli-extralight.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Muli - Light";
+    src:  url('http://localhost:3000/styles/fonts/muli-light.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Muli;
+    src:  url('http://localhost:3000/styles/fonts/muli-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Trirong;
+    src:  url('http://localhost:3000/styles/fonts/trirong-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Font Awesome";
+    src:  url('http://localhost:3000/styles/fonts/fontawesome-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html {
+	width: 100%;
+	height: 100%;
+	font-size: 62.5%;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+html *,
+html *:after,
+html *:before {
+	box-sizing: inherit;
+}
+
+body {
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color:  #ffffff;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	border: 0;
+}
+
+.app {
+	position: relative; 
+	display: block; 
+	width: 100%;
+	min-height: 100%;
+	
+	display:flex;
+	justify-content:center;
+}
+
+button:focus {
+	outline: none !important
+}

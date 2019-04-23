@@ -1,0 +1,25 @@
+
+ @media screen  and (min-width: 1200px) {
+	.plus_position{
+		position:absolute;
+		left:214px;
+		top:146px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.plus_position{
+		position:absolute;
+		left:214px;
+		top:146px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.plus_position{
+		position:absolute;
+		left:214px;
+		top:146px;
+	} 
+ }
+ 

@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__picture-1{
+		width: 370px;
+		height: 464px;
+		background-color: #2b2d5c;
+		opacity: 0.65;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__picture-1{
+		width: 370px;
+		height: 464px;
+		background-color: #2b2d5c;
+		opacity: 0.65;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__picture-1{
+		width: 370px;
+		height: 464px;
+		background-color: #2b2d5c;
+		opacity: 0.65;
+	}
+ }

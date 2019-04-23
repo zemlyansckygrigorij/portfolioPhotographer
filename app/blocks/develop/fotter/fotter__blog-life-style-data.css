@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__blog-life-style-data {
+		font-family: "Muli - Light";
+		font-weight: 300;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__blog-life-style-data {
+		font-family: "Muli - Light";
+		font-weight: 300;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__blog-life-style-data {
+		font-family: "Muli - Light";
+		font-weight: 300;
+	}
+ }

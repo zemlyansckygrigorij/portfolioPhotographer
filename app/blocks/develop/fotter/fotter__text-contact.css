@@ -1,0 +1,36 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__text-contact{
+		width: 200px;
+		height: 58px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 22px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__text-contact{
+		width: 200px;
+		height: 58px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 22px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__text-contact{
+		width: 200px;
+		height: 58px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 22px;
+	}
+ }

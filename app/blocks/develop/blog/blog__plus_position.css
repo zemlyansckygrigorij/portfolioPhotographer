@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__plus_position{
+		position:absolute;
+		top: 605px;	
+		left:20px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__plus_position{
+		position:absolute;
+		top: 605px;	
+		left:20px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__plus_position{
+		position:absolute;
+		top: 605px;
+		left:20px;
+	}
+ }

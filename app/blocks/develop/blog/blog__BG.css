@@ -1,0 +1,29 @@
+@media screen  and (min-width: 1200px) {
+	.blog__BG{
+		width: 1600px;
+		height: 838px;
+		background-color: #f7f7fc;
+		opacity: 0.6;
+		z-index:1;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__BG{
+		width: 1600px;
+		height: 838px;
+		background-color: #f7f7fc;
+		opacity: 0.6;
+		z-index:1;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__BG{
+		width: 1600px;
+		height: 838px;
+		background-color: #f7f7fc;
+		opacity: 0.6;
+		z-index:1;
+	}
+ }

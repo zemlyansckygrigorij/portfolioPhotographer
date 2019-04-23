@@ -1,0 +1,38 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog{
+		width: 1621px;
+		height: 769px;
+		background-color: #f7f7fc;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog{
+		width: 1200px;
+		height: 2300px;
+		background-color: #f7f7fc;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog{
+		width: 800px;
+	    height: 2300px;
+		background-color: #f7f7fc;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+		z-index:2;
+	}
+ }

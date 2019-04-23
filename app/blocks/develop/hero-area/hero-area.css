@@ -1,0 +1,29 @@
+
+
+@media screen  and (min-width: 1200px) {
+	.hero-area{
+		width: 1600px;
+		height: 900px;
+		overflow:hidden; 
+		background-color: #2b2d5c;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-area{
+		width: 1200px;
+		height: 900px;
+		overflow:hidden; 
+		background-color: #2b2d5c;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-area{
+		width: 800px;
+		height: 920px;
+		overflow:hidden; 
+		background-color: #2b2d5c;
+	} 
+ }
+ 

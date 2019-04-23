@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__picture-5{
+		width: 301px;
+		height: 233px;
+		background-color: rgba(28, 30, 60, 0.63);
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__picture-5{
+		width: 301px;
+		height: 233px;
+		background-color: rgba(28, 30, 60, 0.63);
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__picture-5{
+		width: 301px;
+		height: 233px;
+		background-color: rgba(28, 30, 60, 0.63);
+	}
+ }

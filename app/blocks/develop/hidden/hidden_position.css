@@ -1,0 +1,12 @@
+
+@media screen  and (min-width: 1200px) {
+	.hidden_position{}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hidden_position{}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hidden_position{}
+ }

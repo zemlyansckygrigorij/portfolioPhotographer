@@ -1,0 +1,24 @@
+
+ @media screen  and (min-width: 1200px) {
+	.plus__verical_position{
+		position:relative;
+		left:62px;
+		top:-17px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.plus__verical_position{
+		position:relative;
+		left:62px;
+		top:-17px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.plus__verical_position{
+		position:relative;
+		left:62px;
+		top:-17px;
+	} 
+ }

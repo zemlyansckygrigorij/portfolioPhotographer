@@ -1,0 +1,32 @@
+@media screen  and (min-width: 1200px) {
+	.texture{
+		width: 1600px;
+		height: 187px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		overflow: hidden;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.texture{
+		width: 1200px;
+		height: 187px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		overflow: hidden;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.texture{
+		width: 800px;
+		height: 187px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		overflow: hidden;
+	} 
+ }

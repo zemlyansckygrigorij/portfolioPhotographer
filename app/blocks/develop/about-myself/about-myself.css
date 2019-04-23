@@ -1,0 +1,21 @@
+@media screen  and (min-width: 1200px) {
+	.about-myself{
+		/* Style for "About MySe" */
+		width: 729px;
+		height: 193px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about-myself{	
+		width: 500px;
+		height: 250px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about-myself{
+		width: 600px;
+		height: 193px;
+	} 
+ }

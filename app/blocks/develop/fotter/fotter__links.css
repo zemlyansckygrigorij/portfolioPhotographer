@@ -1,0 +1,18 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__links{
+		width:111px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__links{
+		width:111px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__links{
+		width:111px;
+	}
+ }

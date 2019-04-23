@@ -1,0 +1,51 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__text-2{
+		width: 155px;
+		height: 16px;
+		opacity: 0.8;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 28px;
+		/* Text style for "Life style" */
+		font-family: "Muli - Semi Bold";
+		font-weight: 400;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__text-2{
+		width: 155px;
+		height: 16px;
+		opacity: 0.8;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 28px;
+		/* Text style for "Life style" */
+		font-family: "Muli - Semi Bold";
+		font-weight: 400;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__text-2{
+		width: 155px;
+		height: 16px;
+		opacity: 0.8;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 15px;
+		font-weight: 300;
+		line-height: 28px;
+		/* Text style for "Life style" */
+		font-family: "Muli - Semi Bold";
+		font-weight: 400;
+		z-index:2;
+	}
+ }

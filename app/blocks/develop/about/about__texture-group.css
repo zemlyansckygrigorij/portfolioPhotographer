@@ -1,0 +1,28 @@
+@media screen  and (min-width: 1200px) {
+	.about__texture-group{
+	/* Style for "Group 11" */
+		width: 504px;
+		height: 504px;
+		opacity: 0.4;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__texture-group{
+		/* Style for "Group 11" */
+		width: 504px;
+		height: 504px;
+		opacity: 0.4;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__texture-group{
+		/* Style for "Group 11" */
+		width: 504px;
+		height: 504px;
+		opacity: 0.4;
+	} 
+ }
+ 
+ 

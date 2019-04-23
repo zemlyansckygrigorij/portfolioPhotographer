@@ -1,0 +1,21 @@
+@media screen  and (min-width: 1200px) {
+	.about-skills{
+		width: 736px;
+		height: 211px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about-skills{
+		width: 500px;
+		height: 211px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about-skills{
+		width: 600px;
+		height: 211px;
+	} 
+ }
+ 

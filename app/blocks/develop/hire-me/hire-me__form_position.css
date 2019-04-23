@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__form_position{
+		position:relative;
+		top: 0px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__form_position{
+		position:relative;
+		top: 0px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__form_position{
+		position:relative;
+		top: 0px;
+	}
+ }

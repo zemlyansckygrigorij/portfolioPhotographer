@@ -1,0 +1,36 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__header{
+		width: 205px;
+		height: 30px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__header{
+		width: 205px;
+		height: 30px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__header{
+		width: 205px;
+		height: 30px;
+		color: #ffffff;
+		font-family: Trirong;
+		font-size: 40px;
+		font-weight: 300;
+		line-height: 38px;
+	}
+ }

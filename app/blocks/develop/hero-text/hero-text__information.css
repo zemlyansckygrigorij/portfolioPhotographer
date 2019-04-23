@@ -1,0 +1,37 @@
+
+@media screen  and (min-width: 1200px) {
+	.hero-text__information{
+			width: 562px;
+			color: #ffffff;
+			font-family: "Muli - Extra Light";
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 32px;
+			letter-spacing: 0.1px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-text__information{
+			width: 562px;
+			color: #ffffff;
+			font-family: "Muli - Extra Light";
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 32px;
+			letter-spacing: 0.1px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-text__information{
+			width: 562px;
+			color: #ffffff;
+			font-family: "Muli - Extra Light";
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 32px;
+			letter-spacing: 0.1px;
+	} 
+ }
+ 

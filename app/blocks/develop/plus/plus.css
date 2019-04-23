@@ -1,0 +1,21 @@
+@media screen  and (min-width: 1200px) {
+	.plus{
+		width: 124px;
+		height: 124px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.plus{
+		width: 124px;
+		height: 124px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.plus{
+		width: 124px;
+		height: 124px;
+	} 
+ }
+ 

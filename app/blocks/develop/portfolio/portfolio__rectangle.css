@@ -1,0 +1,25 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__rectangle{
+		width: 485px;
+		height: 841px;
+		background-color: #f2c200;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__rectangle{
+		width: 455px;
+		height: 841px;
+		background-color: #f2c200;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__rectangle{
+		width: 485px;
+		height: 841px;
+		background-color: #f2c200;
+	}
+ }
+

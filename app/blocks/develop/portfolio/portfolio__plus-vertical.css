@@ -1,0 +1,25 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__plus-vertical{
+		height: 316px;
+		width: 2px;
+		background-color: #2b2d5c;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__plus-vertical{
+		height: 316px;
+		width: 2px;
+		background-color: #2b2d5c;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__plus-vertical{
+		height: 316px;
+		width: 2px;
+		background-color: #2b2d5c;
+	}
+ }
+

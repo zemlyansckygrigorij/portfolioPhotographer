@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients__vertical{
+		width: 2px;
+		height: 279px;
+		background-color: #2b2d5c;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients__vertical{
+		width: 2px;
+		height: 279px;
+		background-color: #2b2d5c;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients__vertical{
+		width: 2px;
+		height: 279px;
+		background-color: #2b2d5c;
+	} 
+ }

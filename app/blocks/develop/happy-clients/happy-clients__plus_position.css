@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.happy-clients__plus_position{
+		position: absolute;
+		left:38px;
+		top:0px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients__plus_position{
+		 position: absolute;
+		left:38px;
+		top:0px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.happy-clients__plus_position{
+	    position: absolute;
+		left:38px;
+		top:0px;
+	}
+ }

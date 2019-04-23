@@ -1,0 +1,39 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__more{
+		width: 57px;
+		height: 13px;
+		color: #ffffff;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 26px;
+		text-transform: uppercase;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__more{
+		width: 57px;
+		height: 13px;
+		color: #ffffff;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 26px;
+		text-transform: uppercase;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__more{
+		width: 57px;
+		height: 13px;
+		color: #ffffff;
+		font-family: "Muli - Semi Bold";
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 26px;
+		text-transform: uppercase;
+	}
+ }

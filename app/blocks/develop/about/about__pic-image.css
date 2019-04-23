@@ -1,0 +1,24 @@
+@media screen  and (min-width: 1200px) {
+	.about__pic-image{
+		width: 515px;
+		height: 730px;
+		background-color: rgba(43, 45, 92, 0.5);
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__pic-image{
+		width: 515px;
+		height: 730px;
+		background-color: rgba(43, 45, 92, 0.5);
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__pic-image{
+		width: 515px;
+		height: 730px;
+		background-color: rgba(43, 45, 92, 0.5);
+	} 
+ }
+ 

@@ -1,0 +1,33 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__block-form{
+	    width: 501px;
+		height: 305px;
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		align-items:center;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__block-form{
+		width: 501px;
+		height: 305px;
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		align-items:center;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__block-form{
+		width: 501px;
+		height: 305px;
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		align-items:center;
+	}
+ }

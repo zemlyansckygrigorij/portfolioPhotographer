@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__picture-3{
+		width: 471px;
+		height: 233px;
+		background-color: rgba(57, 62, 68, 0.6);
+		overflow:hidden;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__picture-3{
+		width: 471px;
+		height: 233px;
+		background-color: rgba(57, 62, 68, 0.6);
+		overflow:hidden;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__picture-3{
+		width: 471px;
+		height: 233px;
+		background-color: rgba(57, 62, 68, 0.6);
+		overflow:hidden;
+	}
+ }

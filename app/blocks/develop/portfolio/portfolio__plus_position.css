@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__plus_position{
+		position:absolute;
+		top:749px;
+		left:1295px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__plus_position{
+		position:absolute;
+		top:749px;
+		left:1295px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__plus_position{
+		position:absolute;
+		top:749px;
+		left:1295px;
+	}
+ }

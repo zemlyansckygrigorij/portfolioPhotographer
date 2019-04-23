@@ -1,0 +1,23 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__picture-4_position{
+		position: absolute;
+		top: 0px;
+		left: 900px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__picture-4_position{
+		position: absolute;
+		top: 0px;
+		left: 900px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__picture-4_position{
+		position: relative;
+		top: 100px;
+	}
+ }

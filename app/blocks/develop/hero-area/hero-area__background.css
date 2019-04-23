@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.hero-area__background{
+		width: 1600px;
+		height: 900px;
+		background-size: cover;
+		background-repeat: no-repeat;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-area__background{
+		width: 1200px;
+		height: 900px;
+		background-size: cover;
+		background-repeat: no-repeat;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-area__background{
+		width: 800px;
+		height: 900px;
+		background-size: cover;
+		background-repeat: no-repeat;
+	} 
+ }

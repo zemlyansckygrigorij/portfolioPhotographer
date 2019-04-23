@@ -1,0 +1,22 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__blocks_position{
+		position:relative;
+		top:95px;	
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__blocks_position{
+		position:relative;
+		top:95px;		
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__blocks_position{
+		position:relative;
+		top:95px;	
+		left: 80px;	
+	}
+ }

@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__image-6-instagram{
+		width: 74px;
+		height: 61px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__image-6-instagram{
+		width: 74px;
+		height: 61px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__image-6-instagram{
+		width: 74px;
+		height: 61px;
+	}
+ }

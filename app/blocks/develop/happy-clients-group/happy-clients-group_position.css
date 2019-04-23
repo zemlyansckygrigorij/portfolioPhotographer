@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.happy-clients-group_position{
+		position: absolute;
+		top:70px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients-group_position{
+		position: absolute;
+		top:70px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.happy-clients-group_position{
+		position: absolute;
+		top:70px;
+	}
+ }

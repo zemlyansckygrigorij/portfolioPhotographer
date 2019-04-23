@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__horizontal{
+		width: 1604px;
+		height: 1px;
+		background-color: #ffffff;
+		opacity: 0.1;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__horizontal{
+		width: 1200px;
+		height: 1px;
+		background-color: #ffffff;
+		opacity: 0.1;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__horizontal{
+		width: 800px;
+		height: 1px;
+		background-color: #ffffff;
+		opacity: 0.1;
+	}
+ }

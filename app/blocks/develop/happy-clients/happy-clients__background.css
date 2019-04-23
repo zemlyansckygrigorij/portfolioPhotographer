@@ -1,0 +1,21 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients__background{
+		width: 1600px;
+		height: 297px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients__background{
+		width: 1200px;
+		height: 297px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients__background{
+		width: 800px;
+		height: 297px;
+		display: none;
+	} 
+ }

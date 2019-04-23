@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.logo_position_bottom{
+		position: relative;
+		left: 0px;
+		top: 0px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.logo_position_bottom{
+		position: relative;
+		left: 0px;
+		top: 0px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.logo_position_bottom{
+		position: relative;
+		left: 0px;
+		top: 0px;
+	} 
+ }

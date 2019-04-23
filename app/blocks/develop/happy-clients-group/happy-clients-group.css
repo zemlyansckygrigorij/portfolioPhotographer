@@ -1,0 +1,29 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients-group{
+		width: 1171px;
+		height: 144px;	
+		display:flex;
+		flex-direction:column;
+		align-items: center;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients-group{
+		width: 1171px;
+		height: 144px;	
+		display:flex;
+		flex-direction:column;
+		align-items: center;		
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients-group{
+		width: 780px;
+		height: 550px;	
+		display:flex;
+		flex-direction:column;
+		align-items: center;	
+	} 
+ }

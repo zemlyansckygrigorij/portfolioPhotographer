@@ -1,0 +1,33 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me{
+		width: 1606px;
+		height: 528px;
+		background-color: #2b2d5c;
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me{
+		width: 1200px;
+		height: 528px;
+		background-color: #2b2d5c;
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me{
+		width: 800px;
+		height: 528px;
+		background-color: #2b2d5c;
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+	}
+ }

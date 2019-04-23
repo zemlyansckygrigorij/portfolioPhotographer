@@ -1,0 +1,27 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__vertical{
+		width: 2px;
+		height: 377px;
+		background-color: #5f61a3;
+		opacity: 0.3;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__vertical{
+		width: 2px;
+		height: 377px;
+		background-color: #5f61a3;
+		opacity: 0.3;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__vertical{
+		width: 2px;
+		height: 377px;
+		background-color: #5f61a3;
+		opacity: 0.3;
+	}
+ }

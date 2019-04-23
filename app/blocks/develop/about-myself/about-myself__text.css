@@ -1,0 +1,36 @@
+@media screen  and (min-width: 1200px) {
+	.about-myself__text{
+		/* Style for "Hey, thank" */
+		width: 729px;
+		height: 125px;
+		color: #595666;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 28px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about-myself__text{
+		width: 500px;
+		height: 250px;
+		color: #595666;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 28px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about-myself__text{
+		width: 600px;
+		height: 125px;
+		color: #595666;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 28px;
+	} 
+ }

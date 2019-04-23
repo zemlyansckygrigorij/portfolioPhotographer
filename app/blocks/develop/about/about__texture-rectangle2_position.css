@@ -1,0 +1,25 @@
+
+ @media screen  and (min-width: 1200px) {
+	.about__texture-rectangle2_position{
+		position:absolute;
+		left:444px;
+		top:77px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__texture-rectangle2_position{
+		position:absolute;
+		left:444px;
+		top:77px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__texture-rectangle2_position{
+		position:absolute;
+		left:444px;
+		top:77px;
+	} 
+ }
+ 

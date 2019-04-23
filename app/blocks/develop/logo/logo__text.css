@@ -1,0 +1,41 @@
+@media screen  and (min-width: 1200px) {
+	.logo__text{
+		/* Style for "Photograph" */
+		width: 161px;
+		height: 16px;
+		color: #ffffff;
+		font-family: "Muli - Black";
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 32px;
+		text-transform: uppercase;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.logo__text{
+			/* Style for "Photograph" */
+		width: 161px;
+		height: 16px;
+		color: #ffffff;
+		font-family: "Muli - Black";
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 32px;
+		text-transform: uppercase;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.logo__text{
+			/* Style for "Photograph" */
+		width: 161px;
+		height: 16px;
+		color: #ffffff;
+		font-family: "Muli - Black";
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 32px;
+		text-transform: uppercase;
+	} 
+ }

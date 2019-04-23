@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.plus__horizontal{
+		width: 123px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.plus__horizontal{
+		width: 123px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.plus__horizontal{
+		width: 123px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }

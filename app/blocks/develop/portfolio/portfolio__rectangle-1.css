@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__rectangle-1{
+		width: 540px;
+		height: 841px;
+		border: 1px solid #4d407c;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__rectangle-1{
+		display:none;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__rectangle-1{
+		display:none;
+	}
+ }
+

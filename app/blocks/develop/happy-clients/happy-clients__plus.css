@@ -1,0 +1,22 @@
+@media screen  and (min-width: 1200px) {
+	.happy-clients__plus{
+		width: 497px;
+		height: 279px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients__plus{
+		width: 497px;
+		height: 279px;
+		display:none;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.happy-clients__plus{
+		width: 497px;
+		height: 279px;
+		display:none;
+	} 
+ }

@@ -1,0 +1,18 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__part-1_position{
+		position:relative;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__part-1_position{
+		position:relative;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__part-1_position{
+		position:relative;
+	}
+ }

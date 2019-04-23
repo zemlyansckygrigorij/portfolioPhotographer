@@ -1,0 +1,21 @@
+@media screen  and (min-width: 1200px) {
+	.texture__group{
+		height: 183px;
+		background:grey;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.texture-group{
+		height: 183px;
+		background:grey;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.texture-group{
+		height: 183px;
+		background:grey;
+	} 
+ }
+ 

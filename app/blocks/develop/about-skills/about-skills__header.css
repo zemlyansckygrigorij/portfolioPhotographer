@@ -1,0 +1,36 @@
+@media screen  and (min-width: 1200px) {
+	.about-skills__header{
+		width: 131px;
+		height: 20px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 26px;
+		font-weight: 300;
+		line-height: 38px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about-skills__header{
+		width: 131px;
+		height: 20px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 26px;
+		font-weight: 300;
+		line-height: 38px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about-skills__header{
+		width: 131px;
+		height: 20px;
+		color: #2b2d5c;
+		font-family: Trirong;
+		font-size: 26px;
+		font-weight: 300;
+		line-height: 38px;
+	} 
+ }
+ 

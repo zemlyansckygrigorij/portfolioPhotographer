@@ -1,0 +1,37 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__header-blog-posts{
+		width: 187px;
+		height: 24px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 24px;
+		font-weight: 300;
+		line-height: 50.02px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__header-blog-posts{
+		width: 187px;
+		height: 24px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 24px;
+		font-weight: 300;
+		line-height: 50.02px;
+
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__header-blog-posts{
+		width: 187px;
+		height: 24px;
+		color: #ffffff;
+		font-family: Muli;
+		font-size: 24px;
+		font-weight: 300;
+		line-height: 50.02px;
+	}
+ }

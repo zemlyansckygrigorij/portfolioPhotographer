@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__gorizontal{
+		width: 76px;
+		height: 1px;
+		background-color: #ffffff;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__gorizontal{
+		width: 76px;
+		height: 1px;
+		background-color: #ffffff;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__gorizontal{
+		width: 76px;
+		height: 1px;
+		background-color: #ffffff;
+	}
+ }

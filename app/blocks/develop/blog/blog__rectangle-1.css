@@ -1,0 +1,30 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__rectangle-1{
+		width: 96px;
+		height: 11px;
+		background-color: #ffcc00;
+		opacity: 0.6;
+		z-index:2;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__rectangle-1{
+		width: 96px;
+		height: 11px;
+		background-color: #ffcc00;
+		opacity: 0.6;
+		z-index:2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__rectangle-1{
+		width: 96px;
+		height: 11px;
+		background-color: #ffcc00;
+		opacity: 0.6;
+		z-index:2;
+	}
+ }

@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.fotter__contacts{
+		width: 200px;
+		height: 260px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.fotter__contacts{
+		width: 200px;
+		height: 260px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.fotter__contacts{
+		width: 200px;
+		height: 260px;
+	}
+ }

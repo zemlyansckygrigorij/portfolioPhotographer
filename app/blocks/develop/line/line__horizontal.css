@@ -1,0 +1,27 @@
+@media screen  and (min-width: 1200px) {
+	.line__horizontal{
+		/* Style for "Shape 2 co" */
+		width: 616px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.line__horizontal{
+		/* Style for "Shape 2 co" */
+		width: 616px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.line__horizontal{
+		/* Style for "Shape 2 co" */
+		width: 616px;
+		height: 4px;
+		background-color: #ffffff;
+	} 
+ }
+ 

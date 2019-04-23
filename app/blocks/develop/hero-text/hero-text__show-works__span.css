@@ -1,0 +1,36 @@
+@media screen  and (min-width: 1200px) {
+	.hero-text__show-works__span{
+		width: 105px;
+		height: 16px;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 30px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-text__show-works__span{
+		width: 105px;
+		height: 16px;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 30px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-text__show-works__span{
+		width: 105px;
+		height: 16px;
+		color: #2b2d5c;
+		font-family: Muli;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 30px;
+	} 
+ }
+ 

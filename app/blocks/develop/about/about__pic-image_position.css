@@ -1,0 +1,31 @@
+
+ @media screen  and (min-width: 1200px) {
+	.about__pic-image_position{
+		position:absolute;
+		left:0px;
+		top:0px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.about__pic-image_position{
+		position:absolute;
+		left:0px;
+		top:0px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.about__pic-image_position{
+		position:absolute;
+		left:0px;
+		top:0px;
+	} 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 

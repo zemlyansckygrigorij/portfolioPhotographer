@@ -1,0 +1,24 @@
+@media screen  and (min-width: 1200px) {
+	.line__verical{
+		width: 4px;
+		height: 181px;
+		background-color: #ffffff;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.line__verical{
+		width: 4px;
+		height: 181px;
+		background-color: #ffffff;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.line__verical{
+		width: 4px;
+		height: 181px;
+		background-color: #ffffff;
+	} 
+ }
+ 

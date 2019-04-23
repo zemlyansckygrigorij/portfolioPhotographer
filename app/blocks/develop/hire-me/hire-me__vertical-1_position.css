@@ -1,0 +1,25 @@
+
+@media screen  and (min-width: 1200px) {
+	.hire-me__vertical-1_position{
+		position:absolute;
+		top:52px;
+		left:1422px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hire-me__vertical-1_position{
+		position:absolute;
+		top:52px;
+		left:1122px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.hire-me__vertical-1_position{
+		position:absolute;
+		top:52px;
+		left:1422px;
+		display:none;
+	}
+ }

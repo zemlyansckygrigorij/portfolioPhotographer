@@ -1,0 +1,33 @@
+@media screen  and (min-width: 1200px) {
+	.menu_element{
+			height: 14px;
+			color: #ffffff;
+			font-family: "Muli - Semi Bold";
+			font-size: 14px;
+			font-weight: 400;
+			line-height: 32px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.menu_element{
+			height: 14px;
+			color: #ffffff;
+			font-family: "Muli - Semi Bold";
+			font-size: 14px;
+			font-weight: 400;
+			line-height: 32px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.menu_element{
+			height: 14px;
+			color: #ffffff;
+			font-family: "Muli - Semi Bold";
+			font-size: 14px;
+			font-weight: 400;
+			line-height: 32px;
+	} 
+ }
+ 

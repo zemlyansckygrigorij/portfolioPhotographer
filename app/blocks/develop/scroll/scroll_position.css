@@ -1,0 +1,27 @@
+
+ @media screen  and (min-width: 1200px) {
+	.scroll_position{
+		position:absolute;
+		left:785px;
+		/*top:814px;*/
+		top: 77px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.scroll_position{
+		position:absolute;
+		left:785px;
+		/*top:814px;*/
+		top: 77px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.scroll_position{
+		position:absolute;
+		left:400px;
+		/*top:814px;*/
+		top: 77px;
+	} 
+ }

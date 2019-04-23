@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.happy-clients__horizontal_position{
+		position:relative;
+		left:38px;
+		top:234px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.happy-clients__horizontal_position{
+		position:relative;
+		left:38px;
+		top:234px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.happy-clients__horizontal_position{
+		position:relative;
+		left:38px;
+		top:234px;
+	}
+ }

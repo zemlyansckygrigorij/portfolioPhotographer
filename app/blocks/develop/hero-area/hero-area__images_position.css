@@ -1,0 +1,24 @@
+
+ @media screen  and (min-width: 1200px) {
+	.hero-area__images_position{
+		position:relative;
+		left:411px;
+		top:-7px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.hero-area__images_position{
+		position:relative;
+		left:-35px;
+		top:-7px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.hero-area__images_position{
+		position:relative;
+		left:-400px;
+		top:-7px;
+	} 
+ }

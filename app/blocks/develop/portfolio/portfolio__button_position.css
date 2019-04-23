@@ -1,0 +1,23 @@
+
+@media screen  and (min-width: 1200px) {
+	.portfolio__button_position{
+		position: relative;
+		top: 809px;
+		left: 52px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.portfolio__button_position{
+		position: relative;
+		top: 355px;
+		left: 47px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.portfolio__button_position{
+		position: relative;
+		top: 1760px;
+	}
+ }

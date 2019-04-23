@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.blog__vertical_position{
+		position:relative;
+		top:0px;
+		left:192px	;	
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.blog__vertical_position{
+		position:relative;
+		top:0px;
+		left:192px	;	
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.blog__vertical_position{
+		position:relative;
+		top:0px;
+		left:192px	;			
+	}
+ }

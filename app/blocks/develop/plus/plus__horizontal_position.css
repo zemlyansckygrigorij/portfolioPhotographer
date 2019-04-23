@@ -1,0 +1,24 @@
+
+ @media screen  and (min-width: 1200px) {
+	.plus__horizontal_position{
+		position:relative;
+		left:0px;
+		top:50px;
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.plus__horizontal_position{
+		position:relative;
+		left:0px;
+		top:50px;
+	} 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.plus__horizontal_position{
+		position:relative;
+		left:0px;
+		top:50px;
+	} 
+ }
