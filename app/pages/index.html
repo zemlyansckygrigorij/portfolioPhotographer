@@ -10,7 +10,7 @@
 		<meta name="format-detection" content="address=no">
 		<title>Test task</title>
 		<meta name="description" content="Simple demo app.">
-		
+
 		<link rel="preload" href="./styles/fonts/muli-black.woff2" as="font">
 		<link rel="preload" href="./styles/fonts/muli-extralight.woff2" as="font">
 		<link rel="preload" href="./styles/fonts/muli-light.woff2" as="font">
@@ -21,32 +21,58 @@
 		<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 		<script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
 		<script src="https://yastatic.net/share2/share.js" async="async"></script>
-		
+
+		<!--/*test*/ -->
+		 <!-- подключаем стили Mocha, для отображения результатов -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/2.1.0/mocha.css">
+		  <!-- подключаем библиотеку Mocha -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/2.1.0/mocha.js"></script>
+
+		  <!-- настраиваем Mocha: предстоит BDD-тестирование -->
+		<script>
+			mocha.setup('bdd');
+		</script>
+
+		<!-- подключаем chai -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/chai/2.0.0/chai.js"></script>
+		<!-- в chai есть много всего, выносим assert в глобальную область -->
+		<script>
+			var assert = chai.assert;
+		</script>
+
+
+
 		<!-- BEMGO:styles -->
 		<!-- BEMGO:scripts -->
 	    <!-- BEMGO:fonts -->
-	
+
 	</head>
 	<body>
 	<div class="app app_no_js">
-	<div class="main main_position">
-		@@include('develop/hidden/hidden.html', {})
-		
-		@@include('develop/hero-area/hero-area.html', {})
-		
-		
-		@@include('develop/texture/texture.html', {})	
-		
-		
-		@@include('develop/about/about.html', {})
-		@@include('develop/happy-clients/happy-clients.html', {})
-		@@include('develop/portfolio/portfolio.html', {})
-		@@include('develop/blog/blog.html', {})
-		@@include('develop/hire-me/hire-me.html', {})
-		@@include('develop/fotter/fotter.html', {})
-		@@include('develop/popup/popup.html', {})
+		<div class="main main_position">
+			@@include('develop/hidden/hidden.html', {})
+
+			@@include('develop/hero-area/hero-area.html', {})
+
+
+			@@include('develop/texture/texture.html', {})
+
+
+			@@include('develop/about/about.html', {})
+			@@include('develop/happy-clients/happy-clients.html', {})
+			@@include('develop/portfolio/portfolio.html', {})
+			@@include('develop/blog/blog.html', {})
+			@@include('develop/hire-me/hire-me.html', {})
+			@@include('develop/fotter/fotter.html', {})
+			@@include('develop/popup/popup.html', {})
+
+		</div>
 	</div>
-	</div>
+	  <!-- block test -->
+			@@include('develop/mocha/mocha.html', {})
+	<script>
+		mocha.run();
+	</script>
 
 	</body>
 </html>
