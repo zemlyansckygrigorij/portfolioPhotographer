@@ -46,7 +46,7 @@ let sendData = function(){
 	
 	console.log(jsonData);
 	$.ajax({
-        url: "http://127.0.0.1:3000",
+        url: "http://127.0.0.1:4000",
         contentType: "application/json",
         method: "POST",
         data: jsonData,
@@ -77,51 +77,20 @@ let validateForm = function(){
 	}
 	
 	if(!validateEmail(email)){
+		alert('Уверены что email введен верно?');
 		return false;
 	}
 	return true;
 }
 
 function validateEmail(email){
-	let r = email.match(/^[0-9a-z-\.]+\@[0-9a-z-]{2,}\.[a-z]{2,}$/i);
+	if(email.length>320) return false;
+	let r = email.match(/^[0-9a-z-\._]+\@[0-9a-z-_]{2,}\.[a-z]{2,}$/i);
 	if (!r){
-		alert('Уверены что email введен верно?')
 		return false;
 	}
 	return true;
 	
 }
 
-//popup
 
-
-
-/*
-//------correct
-$email[] = '123456@i.ru';
-$email[] = '123456@ru.name.ru';
-$email[] = 'login@i.ru';
-$email[] = 'логин-1@i.ru';
-$email[] = 'login.3@i.ru';
-$email[] = 'login.3-67@i.ru';
-$email[] = '1login@ru.name.ru';
-//----- wrong
-$email[] = '1login_@i.ru';
-$email[] = '_login@i.ru';
-$email[] = '_login@ru.name.ru';
-$email[] = 'логинlogin@i.ru';
-$email[] = 'loginлогин@i.ru';
-$email[] = '.123456@i.ru ';
-$email[] = '123456-@i.ru';
-$email[] = '@123456@i.ru';
-$email[] = '123456@.ru';
-$email[] = '123456@ru';
-$email[] = 'login@.ru';
-$email[] = '123456@ru.name.ru.ua';
-$email[] = '123456@i.ру';
-$email[] = '123456@ru.name.ру';
-
-
-
-
-*/
